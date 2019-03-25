@@ -1,0 +1,3 @@
+child's exit status code: 1
+Please enter a command:
+child's exit status code: 0

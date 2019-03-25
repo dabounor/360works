@@ -1,0 +1,212 @@
+enter main
+&argc=fffc5a20 argv=fffc5ab4 env=fffc5ac8
+&a=fffc59e8 &b=fffc59ec &c=fffc59f0
+argc=4
+argv[0]=./a.out
+argv[1]=one
+argv[2]=two
+argv[3]=three
+env[0]=XDG_VTNR=7
+env[1]=SSH_AGENT_PID=1435
+env[2]=XDG_SESSION_ID=c2
+env[3]=XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/dara
+env[4]=QT_STYLE_OVERRIDE=gtk
+env[5]=TERM=xterm-256color
+env[6]=SHELL=/bin/bash
+env[7]=VTE_VERSION=4205
+env[8]=ROS_ROOT=/opt/ros/kinetic/share/ros
+env[9]=ROS_PACKAGE_PATH=/home/dara/ros/src:/opt/ros/kinetic/share
+env[10]=QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+env[11]=ROS_MASTER_URI=http://localhost:11311
+env[12]=GJS_DEBUG_OUTPUT=stderr
+env[13]=WINDOWID=98566150
+env[14]=ROS_VERSION=1
+env[15]=GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+env[16]=GTK_MODULES=gail:atk-bridge
+env[17]=USER=dara
+env[18]=LD_LIBRARY_PATH=/home/dara/ros/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+env[19]=LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+env[20]=QT_ACCESSIBILITY=1
+env[21]=XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+env[22]=XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+env[23]=SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+env[24]=SESSION_MANAGER=local/dara-Inspiron-5559:@/tmp/.ICE-unix/1379,unix/dara-Inspiron-5559:/tmp/.ICE-unix/1379
+env[25]=DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path
+env[26]=XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+env[27]=PATH=/opt/ros/kinetic/bin:/home/dara/bin:/home/dara/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+env[28]=DESKTOP_SESSION=cinnamon
+env[29]=QT_QPA_PLATFORMTHEME=qgnomeplatform
+env[30]=XDG_SESSION_TYPE=x11
+env[31]=PWD=/home/dara/Documents/cpts360
+env[32]=LANG=en_CA.UTF-8
+env[33]=GDM_LANG=en_CA
+env[34]=MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path
+env[35]=ROSLISP_PACKAGE_DIRECTORIES=/home/dara/ros/devel/share/common-lisp
+env[36]=GDMSESSION=cinnamon
+env[37]=CINNAMON_VERSION=3.6.7
+env[38]=XDG_SEAT=seat0
+env[39]=HOME=/home/dara
+env[40]=SHLVL=1
+env[41]=ROS_DISTRO=kinetic
+env[42]=LANGUAGE=en_CA:en
+env[43]=GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+env[44]=GTK_OVERLAY_SCROLLING=1
+env[45]=PYTHONPATH=/home/dara/ros/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+env[46]=XDG_SESSION_DESKTOP=cinnamon
+env[47]=LOGNAME=dara
+env[48]=XDG_DATA_DIRS=/home/dara/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share/:/usr/share/cinnamon:/usr/share/gnome:/home/dara/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+env[49]=DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-0R9PkbYjpi,guid=3610065a3dcadac9617ceafc5c3ca725
+env[50]=PKG_CONFIG_PATH=/home/dara/ros/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig
+env[51]=LESSOPEN=| /usr/bin/lesspipe %s
+env[52]=CMAKE_PREFIX_PATH=/home/dara/ros/devel:/opt/ros/kinetic
+env[53]=XDG_RUNTIME_DIR=/run/user/1000
+env[54]=DISPLAY=:0
+env[55]=XDG_CURRENT_DESKTOP=X-Cinnamon
+env[56]=LESSCLOSE=/usr/bin/lesspipe %s %s
+env[57]=ROS_ETC_DIR=/opt/ros/kinetic/etc/ros
+env[58]=XAUTHORITY=/home/dara/.Xauthority
+env[59]=_=./a.out
+env[60]=OLDPWD=/home/dara/Documents
+enter A
+&d=fffc59a0 &e=fffc59a4 &f=fffc59a8
+enter B
+&g=fffc5970 &h=fffc5974 &i=fffc5978
+enter C
+&u=fffc5934 &v=fffc5938 &w=fffc593c
+ &i=fffc5940
+ &p=fffc5930
+fffc5958
+fffc5988
+fffc59b8
+fffc5a08
+contents of fffc5930:  -239312
+contents of fffc5934:  10
+contents of fffc5938:  11
+contents of fffc593c:  12
+contents of fffc5940:  13
+contents of fffc5944:  -239292
+contents of fffc5948:  6
+contents of fffc594c:  -608379648
+contents of fffc5950:  -143790080
+contents of fffc5954:  -143790080
+contents of fffc5958:  -239224
+contents of fffc595c:  134514389
+contents of fffc5960:  7
+contents of fffc5964:  8
+contents of fffc5968:  -239244
+contents of fffc596c:  -239240
+contents of fffc5970:  7
+contents of fffc5974:  8
+contents of fffc5978:  9
+contents of fffc597c:  -608379648
+contents of fffc5980:  -143790080
+contents of fffc5984:  -143790080
+contents of fffc5988:  -239176
+contents of fffc598c:  134514255
+contents of fffc5990:  4
+contents of fffc5994:  5
+contents of fffc5998:  -239196
+contents of fffc599c:  -239192
+contents of fffc59a0:  4
+contents of fffc59a4:  5
+contents of fffc59a8:  6
+contents of fffc59ac:  -608379648
+contents of fffc59b0:  -239072
+contents of fffc59b4:  -143341288
+contents of fffc59b8:  -239096
+contents of fffc59bc:  134514109
+contents of fffc59c0:  1
+contents of fffc59c4:  2
+contents of fffc59c8:  -233516
+contents of fffc59cc:  -239120
+contents of fffc59d0:  32768
+contents of fffc59d4:  -143790080
+contents of fffc59d8:  -238904
+contents of fffc59dc:  -238924
+contents of fffc59e0:  4
+contents of fffc59e4:  3
+contents of fffc59e8:  1
+contents of fffc59ec:  2
+contents of fffc59f0:  3
+contents of fffc59f4:  4
+contents of fffc59f8:  61
+contents of fffc59fc:  -608379648
+contents of fffc5a00:  -239072
+contents of fffc5a04:  0
+contents of fffc5a08:  0
+contents of fffc5a0c:  -145459657
+contents of fffc5a10:  -143790080
+contents of fffc5a14:  -143790080
+contents of fffc5a18:  0
+contents of fffc5a1c:  -145459657
+contents of fffc5a20:  4
+contents of fffc5a24:  -238924
+contents of fffc5a28:  -238904
+contents of fffc5a2c:  0
+contents of fffc5a30:  0
+contents of fffc5a34:  0
+contents of fffc5a38:  -143790080
+contents of fffc5a3c:  -143340540
+contents of fffc5a40:  -143343616
+contents of fffc5a44:  0
+contents of fffc5a48:  -143790080
+contents of fffc5a4c:  -143790080
+contents of fffc5a50:  0
+contents of fffc5a54:  -248754318
+contents of fffc5a58:  -1586241181
+contents of fffc5a5c:  0
+contents of fffc5a60:  0
+contents of fffc5a64:  0
+contents of fffc5a68:  4
+contents of fffc5a6c:  134513568
+contents of fffc5a70:  0
+contents of fffc5a74:  -143400976
+contents of fffc5a78:  -143423360
+contents of fffc5a7c:  -143343616
+contents of fffc5a80:  4
+contents of fffc5a84:  134513568
+contents of fffc5a88:  0
+contents of fffc5a8c:  134513601
+contents of fffc5a90:  134513819
+contents of fffc5a94:  4
+contents of fffc5a98:  -238924
+contents of fffc5a9c:  134514672
+contents of fffc5aa0:  134514768
+contents of fffc5aa4:  -143423360
+contents of fffc5aa8:  -238932
+contents of fffc5aac:  -143341288
+contents of fffc5ab0:  4
+contents of fffc5ab4:  -237390
+contents of fffc5ab8:  -237382
+contents of fffc5abc:  -237378
+contents of fffc5ac0:  -237374
+contents of fffc5ac4:  0
+contents of fffc5ac8:  -237368
+contents of fffc5acc:  -237357
+contents of fffc5ad0:  -237338
+contents of fffc5ad4:  -237320
+contents of fffc5ad8:  -237272
+contents of fffc5adc:  -237250
+contents of fffc5ae0:  -237230
+contents of fffc5ae4:  -237214
+contents of fffc5ae8:  -237197
+contents of fffc5aec:  -237161
+contents of fffc5af0:  -237102
+contents of fffc5af4:  -237067
+contents of fffc5af8:  -237029
+contents of fffc5afc:  -237005
+contents of fffc5b00:  -236987
+contents of fffc5b04:  -236973
+contents of fffc5b08:  -236940
+contents of fffc5b0c:  -236912
+contents of fffc5b10:  -236902
+contents of fffc5b14:  -236802
+contents of fffc5b18:  -235386
+contents of fffc5b1c:  -235367
+contents of fffc5b20:  -235309
+contents of fffc5b24:  -235257
+contents of fffc5b28:  -235216
+contents of fffc5b2c:  -235110
+exit B
+exit A
+exit main
